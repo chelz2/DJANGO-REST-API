@@ -1,1 +1,1 @@
-#smple django rest api with CRUD functionality 
+#simple django rest api with CRUD functionality 
