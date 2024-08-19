@@ -1,1 +1,2 @@
-#simple django rest api with CRUD functionality 
+# simple django rest api using drf
+> with simple CRUD functionality
