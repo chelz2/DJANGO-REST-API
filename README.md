@@ -3,5 +3,8 @@
 > create, read, update, delete
 
 # Resources/Documentation 
-> 1. [https://www.djangoproject.com/](https://www.djangoproject.com/)
-> 2. [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/)
+  [https://www.djangoproject.com/](https://www.djangoproject.com/)
+  [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/)
+
+#Final Project 
+<img src="" />
