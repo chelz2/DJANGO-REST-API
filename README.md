@@ -3,8 +3,8 @@
 > create, read, update, delete
 
 # Resources/Documentation 
-  [https://www.djangoproject.com/](https://www.djangoproject.com/)
-  [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/)
+  [Django](https://www.djangoproject.com/)
+  [Django Rest Framework](https://www.django-rest-framework.org/)
 
 # Final Project 
 <img src="Screenshot 2024-08-20 032155.png" />
